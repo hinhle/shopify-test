@@ -4,6 +4,49 @@
   "sections": {
     "footer": {
       "type": "footer",
+      "blocks": {
+        "link_list_GBCPiM": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Company Info",
+            "menu": "company-info"
+          }
+        },
+        "link_list_UdWzyi": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Company Info",
+            "menu": "company-info"
+          }
+        },
+        "link_list_KJJpLh": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Company Info",
+            "menu": "company-info"
+          }
+        },
+        "link_list_iK6JXM": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Company Info",
+            "menu": "company-info"
+          }
+        },
+        "brand_information_PEf7xC": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
+        }
+      },
+      "block_order": [
+        "link_list_GBCPiM",
+        "link_list_UdWzyi",
+        "link_list_KJJpLh",
+        "link_list_iK6JXM",
+        "brand_information_PEf7xC"
+      ],
       "settings": {
         "color_scheme": "scheme-1",
         "newsletter_enable": true,
